@@ -1,0 +1,51 @@
+  body{
+    text-align: center;
+  }
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 25px;
+  }
+  .heading_div
+  {
+    float: none;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_tag 
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .results_tag span
+  {
+  white-space: pre-line;
+  }
+  canvas{
+    border: 4px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150;
+  }
+  .copy_right_footer{
+    color: rgb(255, 255, 255);
+    background-image: linear-gradient(#68a7f3 0%, #83b5f3, #a5caf3);
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    font-size: 18px;
+    font-family: cursive;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 90%;
+  }
+ 
